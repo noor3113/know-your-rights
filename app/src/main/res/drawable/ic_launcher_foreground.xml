@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (bounds: 21 to 87 in both X and Y) -->
+    <!-- Outer Shield Outline in Accent Orange -->
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M54,23 L79,33 C79,59 66,74 54,83 C42,74 29,59 29,33 Z" />
+
+    <!-- Inner Shield in Dark Grey -->
+    <path
+        android:fillColor="#181818"
+        android:pathData="M54,27 L75,35.5 C75,57.5 64,70.5 54,78.5 C44,70.5 33,57.5 33,35.5 Z" />
+
+    <!-- Scales of Justice / Law Emblem in Orange & White -->
+    <!-- Center Pillar -->
+    <path
+        android:fillColor="#FF844B"
+        android:pathData="M52.5,35 H55.5 V65 H52.5 Z" />
+    <path
+        android:fillColor="#FF844B"
+        android:pathData="M54,34 A2.5,2.5 0 1,1 54,39 A2.5,2.5 0 1,1 54,34" />
+    <!-- Crossbar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,41 H68 V43.5 H40 Z" />
+    <!-- Left Scale strings & Pan -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M42,43.5 L37,53 H47 Z" />
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M36,53 C36,57 48,57 48,53 Z" />
+    <!-- Right Scale strings & Pan -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M66,43.5 L61,53 H71 Z" />
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M60,53 C60,57 72,57 72,53 Z" />
+    <!-- Pedestal Base -->
+    <path
+        android:fillColor="#FF844B"
+        android:pathData="M47,65 H61 V67.5 H47 Z" />
+    <path
+        android:fillColor="#FF6B35"
+        android:pathData="M44,67.5 H64 V70 H44 Z" />
+</vector>

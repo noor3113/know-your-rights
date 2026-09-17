@@ -1,0 +1,7 @@
+{
+  "name": "Know Your Rights",
+  "description": "A student rights education app explaining key legal protections in school.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
