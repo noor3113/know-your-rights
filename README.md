@@ -65,8 +65,8 @@ these official documents.
 
 ## 📱 Screenshots
 
-### Home Screen
-![Home Screen](Main%20page.jpeg)
+### Sign Up
+![Sign Up](Sign%20up.jpeg)
 
 ### Rights List
 ![Rights List](Rights.jpeg)
@@ -74,8 +74,8 @@ these official documents.
 ### Right Detail
 ![Right Detail](Rights%20Detail.jpeg)
 
-### Sign Up
-![Sign Up](Sign%20up.jpeg)
+### Home Screen
+![Home Screen](Main%20page.jpeg)
 ## 🎥 Demo Video
 
 *(https://youtube.com/shorts/pSzcilpAVSM?si=YADmzeT11zCOCa-_)*
