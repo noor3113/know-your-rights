@@ -66,17 +66,16 @@ these official documents.
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](ScreenShots/Main%20page.jpeg)
+![Home Screen](Main%20page.jpeg)
 
 ### Rights List
-![Rights List](ScreenShots/Rights.jpeg)
+![Rights List](Rights.jpeg)
 
 ### Right Detail
-![Right Detail](ScreenShots/Rights%20Detail.jpeg)
+![Right Detail](Rights%20Detail.jpeg)
 
 ### Sign Up
-![Sign Up](ScreenShots/Sign%20up.jpeg)
-
+![Sign Up](Sign%20up.jpeg)
 ## 🎥 Demo Video
 
 *(https://youtube.com/shorts/pSzcilpAVSM?si=YADmzeT11zCOCa-_)*
